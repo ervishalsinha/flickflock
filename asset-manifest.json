@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flickflock/static/css/main.cb3607f7.chunk.css",
+    "main.js": "/flickflock/static/js/main.48f17fe2.chunk.js",
+    "main.js.map": "/flickflock/static/js/main.48f17fe2.chunk.js.map",
+    "runtime-main.js": "/flickflock/static/js/runtime-main.c706c5be.js",
+    "runtime-main.js.map": "/flickflock/static/js/runtime-main.c706c5be.js.map",
+    "static/css/2.01bdca31.chunk.css": "/flickflock/static/css/2.01bdca31.chunk.css",
+    "static/js/2.4779077a.chunk.js": "/flickflock/static/js/2.4779077a.chunk.js",
+    "static/js/2.4779077a.chunk.js.map": "/flickflock/static/js/2.4779077a.chunk.js.map",
+    "index.html": "/flickflock/index.html",
+    "service-worker.js": "/flickflock/service-worker.js",
+    "service-worker.js.map": "/flickflock/service-worker.js.map",
+    "static/css/2.01bdca31.chunk.css.map": "/flickflock/static/css/2.01bdca31.chunk.css.map",
+    "static/css/main.cb3607f7.chunk.css.map": "/flickflock/static/css/main.cb3607f7.chunk.css.map",
+    "static/js/2.4779077a.chunk.js.LICENSE.txt": "/flickflock/static/js/2.4779077a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c706c5be.js",
+    "static/css/2.01bdca31.chunk.css",
+    "static/js/2.4779077a.chunk.js",
+    "static/css/main.cb3607f7.chunk.css",
+    "static/js/main.48f17fe2.chunk.js"
+  ]
+}
